@@ -1,0 +1,3 @@
+Executar um JAR via CMD
+
+java -classpath "c:\java\oo\Exemplos codigos\teste.jar" br.exemplo.gui.ControleCombo
